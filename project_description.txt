@@ -1,0 +1,18 @@
+Project name: Physical Like Button
+
+Features:
+- Connect to the physical Like button via Raspberry Pi
+- Scanning the nearest device
+- Update Facebook status
+- App will contain:
+--- Authentication to Facebook
+--- Giving information based on what the user likes
+
+Equipment:
+- Raspberry Pi / Arduino
+- One physical button
+- Cables
+- Solder board
+
+Note:
+- This project is supposed to cover the final project of this class, as well as that of Pervasive Computing.
